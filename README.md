@@ -1,3 +1,6 @@
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=26&duration=4997&pause=1000&color=F7F0F0&width=694&height=55&lines=Welcome+to+my+coding+journey+;+Trying+to+make+lines+of+code+build+dreams...+" alt="Typing SVG" /></a>
+</h1>
 <h1 align="center">Hi 👋, I'm Ayushi Beri</h1>
 <h3 align="center">Making every commit a step toward innovation and excellence</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
